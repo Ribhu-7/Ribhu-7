@@ -1,5 +1,5 @@
 ### Hi 👋 I'm Ribhu Ghosh! <hr>
-### Full Stack Web Developer <hr>
+### Software Developer <hr>
 Internet calls me Ribhu-7 :smile:
 
 - 🌱 I’m currently learning Full Stack Web Development.
