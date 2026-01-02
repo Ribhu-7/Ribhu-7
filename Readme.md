@@ -8,7 +8,7 @@ Internet calls me Ribhu-7 :smile:
 - ⚡ Fun fact I am interested in Traveling.
 
 ### Skills
-<img src="[https://uxwing.com/swift-programming-language-icon](https://avatars.githubusercontent.com/u/42816656?s=200&v=4)" width="35px" height="35px"></image>
+<img src="https://uxwing.com/swift-programming-language-icon](https://avatars.githubusercontent.com/u/42816656?s=200&v=4)](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/swift-programming-language-icon.png)" width="35px" height="35px"></image>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="35px" height="35px"></image>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="35px" height="35px"></image>
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="35px" height="35px"></image>
