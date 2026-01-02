@@ -2,8 +2,8 @@
 ### Software Developer <hr>
 Internet calls me Ribhu-7 :smile:
 
-- 🌱 I’m currently learning Full Stack Web Development.
-- 👯 I'm open to collaborating on React Apps, Projects to develop website.
+- 🌱 I’m currently working as a Software Developer.
+- 👯 I'm open to collaborating on iOS Apps, React Apps, Projects to develop applications and website.
 - 📫 How to reach me: ribhughosh7@gmail.com
 - ⚡ Fun fact I am interested in Traveling.
 
